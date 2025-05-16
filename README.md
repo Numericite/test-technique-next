@@ -11,6 +11,7 @@ Regarder la route api côté nextjs dans `/api/files`
 - Récupérer les données de l’API `/api/files` avec un appel `fetch`.
 - Bien typé les données reçu avec TypeScript.
 - Stocker les données dans un état local.
+- Afficher les données dans un arbre de fichiers.
 
 ### Rendu attendu
 
